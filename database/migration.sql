@@ -1,1 +1,4 @@
+ALTER TABLE employees
+
+ADD COLUMN created_date DATE DEFAULT CURRENT_DATE;
 
